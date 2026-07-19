@@ -92,7 +92,7 @@
           "type": "Associate"
         }
       ],
-      "juniorTeamId": "racingbulls"
+      "team.juniorTeamId": "racingbulls"
     },
     {
       "id": "ferrari",
@@ -191,8 +191,8 @@
           "type": "Associate"
         }
       ],
-      "juniorTeamId": "audi",
-      "juniorTeamId": "haas",
+      "team.juniorTeamId": "audi",
+      "team.juniorTeamId": "haas",
     },
     {
       "id": "mercedes",
@@ -1120,7 +1120,7 @@
           "feederContract": 0,
           "series": "F2",
           "number": 31,
-          "academyTeamId": "mercedes"
+          "driver.academyTeamId": "mercedes"
         }
       ],
       "alpine": [
@@ -1247,7 +1247,7 @@
           "feederContract": 0,
           "series": "F2",
           "number": 26,
-          "academyTeamId": "redbull",
+          "driver.academyTeamId": "redbull",
         }
       ],
       "haas": [
@@ -1332,7 +1332,7 @@
           "feederContract": 5,
           "series": "F2",
           "number": 94,
-          "academyTeamId": "mercedes"
+          "driver.academyTeamId": "mercedes"
         }
       ]
     },
@@ -4421,7 +4421,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 29,
-        "academyTeamId": "redbull"
+        "driver.academyTeamId": "redbull"
       },
       {
         "name": "Sébastien Buemi",
@@ -4441,7 +4441,7 @@
         "contract": 2,
         "feederContract": 0,
         "series": "F2",
-        "academyTeamId": "redbull"
+        "driver.academyTeamId": "redbull"
       }
     ],
     "ferrari": [
@@ -4464,7 +4464,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 16,
-        "academyTeamId": "ferrari"
+        "driver.academyTeamId": "ferrari"
       },
       {
         "name": "Antonio Giovinazzi",
@@ -4485,7 +4485,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 99,
-        "academyTeamId": "ferrari"
+        "driver.academyTeamId": "ferrari"
       }
     ],
     "mercedes": [
@@ -4528,7 +4528,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 63,
-        "academyTeamId": "mercedes"
+        "driver.academyTeamId": "mercedes"
       }
     ],
     "mclaren": [
@@ -4571,7 +4571,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 4,
-        "academyTeamId": "mclaren"
+        "driver.academyTeamId": "mclaren"
       }
     ],
     "aston": [
@@ -4717,7 +4717,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 10,
-        "academyTeamId": "redbull"
+        "driver.academyTeamId": "redbull"
       },
       {
         "name": "Sean Galael",
@@ -4759,7 +4759,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 51,
-        "academyTeamId": "ferrari"
+        "driver.academyTeamId": "ferrari"
       },
       {
         "name": "Antonio Fuoco",
@@ -4780,7 +4780,7 @@
         "feederContract": 0,
         "series": "F2",
         "number": 38,
-        "academyTeamId": "ferrari"
+        "driver.academyTeamId": "ferrari"
       }
     ],
     "audi": [
@@ -5038,7 +5038,7 @@
       "feederContract": 1,
       "series": "F2",
       "number": 23,
-      "academyTeamId": "redbull"
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Oscar Piastri",
@@ -5059,7 +5059,7 @@
       "feederContract": 2,
       "series": "Regional Formulas",
       "number": 81,
-      "academyTeamId": "mclaren"
+      "driver.academyTeamId": "mclaren"
     },
     {
       "name": "Théo Pourchaire",
@@ -5099,7 +5099,7 @@
       "feederContract": 3,
       "series": "Regional Formulas",
       "number": 43,
-      "academyTeamId": "alpine"
+      "driver.academyTeamId": "alpine"
     },
     {
       "name": "Liam Lawson",
@@ -5120,7 +5120,7 @@
       "feederContract": 0,
       "series": "Regional Formulas",
       "number": 30,
-      "academyTeamId": "redbull"
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Victor Martins",
@@ -5160,7 +5160,7 @@
       "feederContract": 1,
       "series": "Regional Formulas",
       "number": 7,
-      "academyTeamId": "alpine"
+      "driver.academyTeamId": "alpine"
     },
     {
       "name": "Felipe Drugovich",
@@ -5181,7 +5181,7 @@
       "feederContract": 1,
       "series": "Regional Formulas",
       "number": 35,
-      "academyTeamId": "aston"
+      "driver.academyTeamId": "aston"
     },
     {
       "name": "Mick Schumacher",
@@ -5202,7 +5202,7 @@
       "feederContract": 0,
       "series": "F3",
       "number": 47,
-      "academyTeamId": "ferrari"
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Robert Shwartzmann",
@@ -5223,7 +5223,7 @@
       "feederContract": 0,
       "series": "Regional Formulas",
       "number": 39,
-      "academyTeamId": "ferrari"
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Callum Ilott",
@@ -5284,7 +5284,7 @@
       "feederContract": 0,
       "series": "Regional Formulas",
       "number": 22,
-      "academyTeamId": "redbull"
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Dennis Hauger",
@@ -5324,7 +5324,7 @@
       "feederContract": 3,
       "series": "Regional Formulas",
       "number": 40,
-      "academyTeamId": "redbull"
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Luke Browning",
@@ -5365,7 +5365,7 @@
       "feederContract": 1,
       "series": "Regional Formulas",
       "number": 2,
-      "academyTeamId": "williams"
+      "driver.academyTeamId": "williams"
     },
     {
       "name": "Guanyu Zhou",
@@ -5386,7 +5386,7 @@
       "feederContract": 0,
       "series": "F3",
       "number": 24,
-      "academyTeamId": "ferrari"
+      "driver.academyTeamId": "ferrari"
     },
     {
       "name": "Frederik Vesti",
@@ -5407,7 +5407,7 @@
       "feederContract": 2,
       "series": "Regional Formulas",
       "number": 72,
-      "academyTeamId": "mercedes"
+      "driver.academyTeamId": "mercedes"
     },
     {
       "name": "Zane Maloney",
@@ -5447,7 +5447,7 @@
       "feederContract": 0,
       "series": "F2",
       "number": 21,
-      "academyTeamId": "redbull"
+      "driver.academyTeamId": "redbull"
     },
     {
       "name": "Jüri Vips",
